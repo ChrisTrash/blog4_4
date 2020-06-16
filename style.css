@@ -27,6 +27,11 @@
     font-weight: bold;
   }
 
+  #skeleton 
+  {
+    padding: 0 0;
+  }
+
   #menu li a:hover
   {
     background-color: #990000;
