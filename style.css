@@ -27,14 +27,14 @@
     font-weight: bold;
   }
 
-  #skeleton 
-  {
-    padding: 0 0;
-  }
-
   #menu li a:hover
   {
     background-color: #990000;
+  }
+
+  #skel
+  {
+    padding: 0 0;
   }
 
   #main, #k1, #p1
